@@ -1,0 +1,11 @@
+{
+  "name": "this-version",
+  "version": "0.0.0",
+  "description": "Alert if the project is running an outdated version based on the git repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "freeall",
+  "license": "MIT"
+}
